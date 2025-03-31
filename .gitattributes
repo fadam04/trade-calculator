@@ -3,3 +3,7 @@
 *.tex linguist-detectable=false
 *.cls linguist-detectable=false
 *.sty linguist-detectable=false
+*.webp linguist-detectable=false
+*.exe linguist-detectable=false
+*.toc linguist-detectable=false
+*.py linguist-language=Python
